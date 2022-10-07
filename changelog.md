@@ -6,5 +6,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2022-10-05
 ### Added
-- Addeg changelog.md
+- Added changelog.md
 
